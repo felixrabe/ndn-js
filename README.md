@@ -71,7 +71,7 @@ specify a local or remote ndnd as well, as an argument to the NDN constructor.
 JavaScript API
 --------------
 
-See files in js/ and examples in tests/, examples/
+See files in [js/](https://github.com/named-data/ndn-js/tree/master/js) and examples in [tests/](https://github.com/named-data/ndn-js/tree/master/tests) and [examples/](https://github.com/named-data/ndn-js/tree/master/examples).
 
 NDN-JS currently supports expressing Interests (and receiving data) and publishing Data
 (that answers Interests).  This includes encoding and decoding data packets as well as
