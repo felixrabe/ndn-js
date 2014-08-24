@@ -29,8 +29,7 @@ Overview
 --------
 
 This is a young project, with minimal documentation that we are slowly enhancing.  Please
-submit any bugs or issues to the NDN-JS issue tracker:
-http://redmine.named-data.net/projects/ndn-js/issues
+submit any bugs or issues to the [NDN-JS issue tracker](http://redmine.named-data.net/projects/ndn-js/issues).
 
 The primary goal of NDN-JS is to provide a pure JavaScript implementation of the NDN API
 that enables developers to create browser-based applications using Named Data Networking.
