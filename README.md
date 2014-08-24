@@ -60,8 +60,8 @@ Currently, the library has two APIs for developers:
 
 By default, both parts of the library connect automatically to a set of
 proxies and hubs that are part of the NDN research project's
-[testbed](http://named-data.net/ndn-testbed/). There are currently no restrictions on non-
-commercial, research-oriented data exchange on this testbed. See the
+[testbed](http://named-data.net/ndn-testbed/). There are currently no restrictions on
+non-commercial, research-oriented data exchange on this testbed. See the
 [Policies for Connecting Nodes to the NDN
 Testbed](http://named-data.net/ndn-testbed/policies-connecting-nodes-ndn-testbed/),
 or contact jburke@remap.ucla.edu for more details.
