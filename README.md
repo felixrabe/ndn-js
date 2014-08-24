@@ -44,8 +44,8 @@ JavaScript).
 
 The library currently requires a remote NDN daemon, and has been tested with:
 
-- ndnd from the [NDNx package](https://github.com/named-data/ndnx)
-- ndnd-tlv from the [ndnd-tlv package](https://github.com/named-data/ndnd-tlv)
+- ndnd from the [NDNx package](https://github.com/named-data/ndnx),
+- ndnd-tlv from the [ndnd-tlv package](https://github.com/named-data/ndnd-tlv),
 - NFD from the [NFD package](https://github.com/named-data/NFD).
 
 Currently, the library has two APIs for developers:
