@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/named-data/ndn-js"
+    "url": "https://github.com/felixrabe/ndn-js"
   },
   "keywords": [
     "NDN"
@@ -24,7 +24,7 @@
   "author": "UCLA",
   "license": "LGPL-3.0+",
   "bugs": {
-    "url": "https://github.com/named-data/ndn-js/issues"
+    "url": "https://github.com/felixrabe/ndn-js/issues"
   },
   "dependencies": {
     "jsbn": "*",
