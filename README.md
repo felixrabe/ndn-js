@@ -1,3 +1,4 @@
+This fork is unofficial. See [CONTRIBUTING.md](./CONTRIBUTING.md) for the release process.
 
 NDN-JS:  A javascript client library for Named Data Networking
 --------------------------------------------------------------
