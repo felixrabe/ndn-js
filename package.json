@@ -1,7 +1,7 @@
 {
-  "name": "ndn-lib",
+  "name": "ndn-js-by-felixrabe",
   "version": "0.5.0",
-  "description": "A JavaScript client library for Named Data Networking",
+  "description": "(UNOFFICIAL FORK) A JavaScript client library for Named Data Networking",
   "main": "index.js",
   "directories": {
     "example": "examples",
